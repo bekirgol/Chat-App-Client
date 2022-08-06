@@ -1,3 +1,3 @@
 class AppConstand {
-  static const String BASE_URL = "http://3.67.168.109:3000";
+  static const String BASE_URL = "YOUR_BASE_URL";
 }
